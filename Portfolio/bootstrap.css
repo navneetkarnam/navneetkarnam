@@ -14,16 +14,7 @@ body {
 
 }
 
-#main1{
-   background-color: #675843;
-   background-image: url("images/background.jpg");
-   background-size: cover;
-   background-position: center;
-   background-blend-mode: screen;
-   background-attachment: fixed;
-   /*background-repeat: no-repeat;*/
 
-}
 
 article,
 aside,
@@ -78,29 +69,7 @@ h1 {
   
 }
 
-#header1 {
-  text-align: center;
-  font-family: 'Audiowide', cursive;
-  font-size: 60px;
-  padding-top: 20%;
-  color: black;
-}
 
-#para1 {
-  text-align: center;
-  font-family: 'Pacifico', cursive;
-  font-size: 3em;
-  color: black;
-}
-
-#top1 {
-  font-family: 'Kaushan Script', cursive;
-  font-size: 20px;
-}
-#share {
-  text-align: center;
-  padding-top: 15%;
-}
 
 
 mark {
@@ -5043,8 +5012,8 @@ a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
-  background-color: #fff;
-  border: 1px solid #ddd;
+  /*background-color: #fff;*/
+  /*border: 1px solid #ddd;*/
   border-radius: 4px;
   -webkit-transition: border .2s ease-in-out;
        -o-transition: border .2s ease-in-out;
