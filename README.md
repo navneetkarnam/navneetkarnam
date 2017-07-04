@@ -8,5 +8,5 @@
 - [ ] Contact
 * * *
 
-![](".png")
+![](https://github.com/navneetkarnam/navkarnam.io/blob/master/images/indeximg.png)
 
