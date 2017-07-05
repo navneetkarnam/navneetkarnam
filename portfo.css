@@ -4,7 +4,6 @@
 }
 
 body{
-
 	background-color: #675843;
    background-image: url("images/background.jpg");
    background-size: cover;
@@ -15,30 +14,8 @@ body{
 
 }
 
-.jumbotron {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
-  color: inherit;
-  background-color: transparent;
-}
-
-#head1 {
-	font-size: 5em;
-}
-
-#para1 {
-	font-size: 2em;
-}
-
-#content {
-	text-align: center;
-	padding-top: 20%;
-}
-
-
 #copyrights{
-  margin-top: 15%;
+  margin-top: 50em;
   text-align: center;
   font-weight: bold;
   font-size: 1em;

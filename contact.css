@@ -6,7 +6,7 @@
 body{
 
 	background-color: #675843;
-   background-image: url("images/background.jpg");
+   background-image: url("images/contact.jpg");
    background-size: cover;
    background-position: center;
    background-blend-mode: screen;
@@ -23,6 +23,7 @@ body{
   background-color: transparent;
 }
 
+
 #head1 {
 	font-size: 5em;
 }
@@ -33,12 +34,11 @@ body{
 
 #content {
 	text-align: center;
-	padding-top: 20%;
+	padding-top: 10%;
 }
 
-
 #copyrights{
-  margin-top: 15%;
+	margin-top: 20%;
   text-align: center;
   font-weight: bold;
   font-size: 1em;

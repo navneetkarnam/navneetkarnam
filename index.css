@@ -80,7 +80,7 @@
     position: absolute;
     top: -180px;
     left: -600px;
-    transition: 1s;
+    transition: 3s;
     transform: rotate(30deg);
     background: linear-gradient(0deg, rgba(255, 255, 255, 0)50%, rgba(255, 255, 255, 0.7)100%);
 }
@@ -92,4 +92,8 @@
     transform: rotate(0deg);
 }
 
-
+#copyrights{
+  text-align: center;
+  font-weight: bold;
+  font-size: 1em;
+}
