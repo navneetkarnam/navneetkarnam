@@ -3,10 +3,6 @@
 - Working on my portfolio page using HTML5, CSS, JavaScript and Bootstrapping.
 
 * * * 
-- [x] Index page done
-- [ ] Blog page
-- [ ] Contact
-* * *
 
-![](https://github.com/navneetkarnam/navkarnam.io/blob/master/images/indeximage2.png)
+![](https://github.com/navneetkarnam/navkarnam.io/blob/master/images/image2.png)
 
