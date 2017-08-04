@@ -4,5 +4,5 @@
 
 * * * 
 
-![](https://github.com/navneetkarnam/navkarnam.io/blob/master/images/image2.png)
+![](assets/stylesheets/images/image2.png)
 
