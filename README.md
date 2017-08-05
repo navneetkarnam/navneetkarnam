@@ -1,7 +1,7 @@
 # Navneet Karnam Portfolio Page
-- Personal portfolio page
-- Working on my portfolio page using HTML5, CSS, JavaScript and Bootstrapping.
+- Personal portfolio page 
 
+**NOTE: Go to the following [link](http://navneetkarnam.github.io/navkarnam.github.io/index.html) to view the webpage
 * * * 
 
 ![](assets/stylesheets/images/image2.png)
