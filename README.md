@@ -5,5 +5,5 @@
 
 * * * 
 
-![](assets/stylesheets/images/image2.png)
+![](../src/assets/images/image2.png)
 
