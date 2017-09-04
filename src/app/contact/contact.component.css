@@ -1,0 +1,47 @@
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: transparent;
+
+}
+
+#content {
+  background-color: #675843;
+  text-align: center;
+  padding-top: 10%;
+  background-image: url('contact.jpg');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: screen;
+  background-attachment: fixed;
+  height: 750px;
+  min-width: 100%;
+}
+
+#head1 {
+  font-size: 5em;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+  0px 8px 13px rgba(0,0,0,0.3),
+  0px 18px 23px rgba(0,0,0,0.2);
+}
+
+#para1 {
+  font-size: 2em;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.2),
+  0px 8px 13px rgba(0,0,0,0.1),
+  0px 18px 23px rgba(0,0,0,0.05);
+}
+
+.email{
+  font-size: 30px;
+  font-weight: normal;
+  font-family: 'Alegreya', serif;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4);
+  background-color: black;
+  opacity:0.5;
+  border-radius: 50px;
+  color: white;
+
+}

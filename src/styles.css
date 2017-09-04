@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+body{
+  background-color: #675843;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: screen;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
